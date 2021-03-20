@@ -10,4 +10,4 @@
 
 • bash change-ip.sh
 
-created code by: El Jeffry
+creador del code by: El Jeffry
