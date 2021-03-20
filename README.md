@@ -1,7 +1,8 @@
 # change-ip
 
 <h2>Te permite cambiar la ip en tu terminal.<h2>
-comandos
+
+*comandos.
 
 • git clone https://github.com/capitancomando/change-ip
 
